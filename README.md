@@ -15,8 +15,6 @@
  
 - Руковожу разработкой проекта по майнкрафту
 
-- Пишу книги
-
 - Back-end разработчик на:
 <div> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Git" **alt="Git" width="40" height="40"/</div>
