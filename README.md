@@ -17,8 +17,10 @@
 
 - Пишу книги
 
-- Back-end разработчик на ruby
-<div> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></div>
+- Back-end разработчик на:
+<div> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Git" **alt="Git" width="40" height="40"/</div>
+
  -Основатель группы Rpsl(Realm Pages & Story Lore), нарративных дизайнеров, сценаристов и писателей саундтреков для чего-либо.
 
 ---
