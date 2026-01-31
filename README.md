@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdyc2I0dDM2Y3dncmp4MTJoZDFhdnNzMzl6bXVmOTF6Nm4wY3J0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hM4OekkycahSas09bD/giphy.gif" width="250"/>
 </div>
 <div id="badges" align="center">
-  <a href="t.me/RpslErd">
+  <a href="https://t.me/RpslErd">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
@@ -24,4 +24,4 @@
 ---
 Нынешняя деятельность помимо всего перечисленного:
 - Разработка приложения-инструмента для писателей.
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KostarevPs&theme=dark)](https://git.io/streak-stats)
+
